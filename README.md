@@ -56,7 +56,7 @@ Working on practical projects involving web applications, backend systems and AI
   <a href="https://wa.me/5541991079610">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-obart.__-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-obart.__-5865F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 ---
