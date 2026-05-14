@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Works+on+my+machine.;Turning+pizza+into+code.;Probably+debugging+something+right+now.;Building+systems+and+breaking+them." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Na+minha+maquina+funciona.;Eu+arrumo+1+bug+e+aparecem+17.;Se+compilou+eu+ja+to+feliz.;Ctrl+C+Ctrl+V+tambem+e+tecnologia.;Transformando+pizza+em+codigo." />
 </p>
 
 ---
