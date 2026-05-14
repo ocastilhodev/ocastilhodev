@@ -61,6 +61,7 @@ Working on practical projects involving web applications, backend systems and AI
     <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Castilho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
