@@ -62,5 +62,5 @@ Working on practical projects involving web applications, backend systems and AI
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/view/michelangelo-shredders-revenge-tmnt-silly-goofy-gif-26805467)" width="150" />
 </p>
