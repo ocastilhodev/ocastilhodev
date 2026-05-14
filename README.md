@@ -2,7 +2,7 @@
   <img src="banner.png.png" width="700" />
 </p>
 
-<h1 align="center">Bart</h1>
+<h1 align="center">Vitor Castilho</h1>
 
 <p align="center">
   Software Developer • Web Systems • Automation • AI
