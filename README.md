@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png.png" width="700" />
+  <img src="banner.png.png" width="900" />
 </p>
 
 <h1 align="center">Vitor Castilho</h1>
